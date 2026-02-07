@@ -387,14 +387,7 @@ SELECT
 
     -- UNIT
     COALESCE(u.unit_category, 'Unspecified Unit') AS unit_category,
-    COALESCE(u.unit_name, 'Unspecified Unit')     AS unit_name,
-
-    -- CONFIDENCE (numeric fact, safe)
-    (
-        CASE WHEN r.role_name IS NOT NULL THEN 40 ELSE 0 END +
-        CASE WHEN s.specialty_name IS NOT NULL THEN 40 ELSE 0 END +
-        CASE WHEN u.unit_name IS NOT NULL THEN 20 ELSE 0 END
-    ) AS classification_confidence
+    COALESCE(u.unit_name, 'Unspecified Unit')     AS unit_name
 
 FROM job_postings jp
 LEFT JOIN vw_job_role r
@@ -529,10 +522,6 @@ LEFT JOIN currency_conversion cc
     ON js.currency = cc.currency_code
 WHERE salary_yearly_usd IS NOT NULL    
 ;
-
-
-
-
 
 
 
