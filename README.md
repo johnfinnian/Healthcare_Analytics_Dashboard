@@ -7,7 +7,6 @@
 Healthcare job seekers face a **highly fragmented labor market**. Job postings are spread across platforms, salary information is inconsistent, compensation types vary (hourly vs yearly), and meaningful comparisons across roles, specialties, locations, and benefits are difficult to make.
 
 This project was created to **centralize and structure healthcare job market data**, transforming a general, multi-industry job postings dataset into a **healthcare-focused analytical model**. The goal is to deliver **clear, comparable, and decision-ready insights** into healthcare salaries, hiring demand, and job quality.
----
 
 ## 🧱 2. Data & Modeling
 
