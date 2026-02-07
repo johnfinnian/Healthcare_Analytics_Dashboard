@@ -1,6 +1,6 @@
 # 🏥📊 Healthcare Job Analytics Dashboard
 
-![Dashboard Preview](/Healthcare_Project/Healthcare_Analytics_Dashboard/Images/Healthcare_Dashboard.gif)
+![Dashboard Preview](C:\Users\chimc\Documents\Healthcare_Jobs_Project\Healthcare_Project\Healthcare_Analytics_Dashboard\Images\Dashboard_GIF.gif)
 
 ## 🎯 1. Problem Statement
 
