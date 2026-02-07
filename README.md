@@ -1,6 +1,6 @@
 # 🏥📊 Healthcare Job Analytics Dashboard
 
-![Dashboard Preview](/Images/Dashboard_GIF.gif)
+![Dashboard Preview](Images/Dashboard_GIF.gif)
 
 ## 🎯 1. Problem Statement
 
