@@ -1,6 +1,6 @@
 # 🏥📊 Healthcare Job Analytics Dashboard
 
-![Dashboard Preview](/Healthcare%20Project/Healthcare_Analytics_Dashboard/Images/Healthcare%20Dashboard.gif)
+![Dashboard Preview](/Healthcare_Project/Healthcare_Analytics_Dashboard/Images/Healthcare_Dashboard.gif)
 
 ## 🎯 1. Problem Statement
 
@@ -95,7 +95,7 @@ This guarantees **correct aggregation behavior** across all slicers and drill-th
 
 #### 📍 Page 1 – Healthcare Job Overview
 
-![Dashboard Page 1](/Healthcare%20Project/Healthcare_Analytics_Dashboard/Images/Healthcare%20Job%20Dashboard%20P1.png)
+![Dashboard Page 1](/Healthcare_Project/Healthcare_Analytics_Dashboard/Images/Healthcare_Job_Dashboard_P1.png)
 
 * 📊 High-level KPIs (job count & compensation)
 * 🏆 Top-paying healthcare jobs with dynamic switching by:
@@ -111,7 +111,9 @@ This guarantees **correct aggregation behavior** across all slicers and drill-th
 
 #### 📍 Page 2 – Salary & Hiring Demand
 
-![Dashboard Page 2](/Healthcare%20Project/Healthcare_Analytics_Dashboard/Images/Healthcare%20Job%20Dashboard%20P2.png)
+
+![Dashboard Page 2](/Healthcare_Project/Healthcare_Analytics_Dashboard/Images/Healthcare_Job_Dashboard_P2.png)
+
 
 * ⚖️ Hourly vs yearly compensation comparison
 * 📆 Hiring trends over time
