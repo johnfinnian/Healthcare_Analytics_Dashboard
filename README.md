@@ -1,13 +1,12 @@
 # 🏥📊 Healthcare Job Analytics Dashboard
 
-![Dashboard Preview](/Healthcare_Project/Images/Dashboard_GIF.gif)
+![Dashboard Preview](/Healthcare_Project/Analytics_Dashboard/Images/Dashboard_GIF.gif)
 
 ## 🎯 1. Problem Statement
 
 Healthcare job seekers face a **highly fragmented labor market**. Job postings are spread across platforms, salary information is inconsistent, compensation types vary (hourly vs yearly), and meaningful comparisons across roles, specialties, locations, and benefits are difficult to make.
 
 This project was created to **centralize and structure healthcare job market data**, transforming a general, multi-industry job postings dataset into a **healthcare-focused analytical model**. The goal is to deliver **clear, comparable, and decision-ready insights** into healthcare salaries, hiring demand, and job quality.
-
 ---
 
 ## 🧱 2. Data & Modeling
@@ -95,7 +94,7 @@ This guarantees **correct aggregation behavior** across all slicers and drill-th
 
 #### 📍 Page 1 – Healthcare Job Overview
 
-![Dashboard Page 1](/Healthcare_Project/Images/Healthcare_Job_Dashboard_P1.png)
+![Dashboard Page 1](/Healthcare_Project/Analytics_Dashboard/Images/Healthcare_Job_Dashboard_P1.png)
 
 * 📊 High-level KPIs (job count & compensation)
 * 🏆 Top-paying healthcare jobs with dynamic switching by:
@@ -112,7 +111,7 @@ This guarantees **correct aggregation behavior** across all slicers and drill-th
 #### 📍 Page 2 – Salary & Hiring Demand
 
 
-![Dashboard Page 2](/Healthcare_Project/Images/Healthcare_Job_Dashboard_P2.png)
+![Dashboard Page 2](/Healthcare_Project/Analytics_Dashboard/Images/Healthcare_Job_Dashboard_P2.png)
 
 
 * ⚖️ Hourly vs yearly compensation comparison
