@@ -569,29 +569,3 @@ LEFT JOIN fact_healthcare_job hj ON
 jb.job_id = hj.job_id;
 
 
-
-
-`
-| Signal present     | Points  |
-| ------------------ | ------- |
-| Role detected      | 40      |
-| Specialty detected | 40      |
-| Unit detected      | 20      |
-| **Total**          | **100** |
-
-Interpretation:
-
-80–100 → Strong classification
-
-40–79 → Partial inference
-
-<40 → Weak / generic
-
-This is auditable, explainable, and ideal for BI.`
-
-
-/*Power BI optimization (critical)
-5.1 Indexes (massive performance gain)*/
-
-
-
