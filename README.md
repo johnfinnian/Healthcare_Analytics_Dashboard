@@ -61,7 +61,7 @@ The modeled data is presented through a **two-page interactive Power BI dashboar
 
 ### ▶️ Open Locally
 
-* Download: [healthcare_Job_Dashboard](src/Power_BI_File)   `powerbi/healthcare_Job_Dashboard.pbix` 
+* Download: [healthcare_Job_Dashboard](Power_BI_File)   `powerbi/healthcare_Job_Dashboard.pbix` 
 * Open with **Power BI Desktop**
 
 ---
